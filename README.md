@@ -1,8 +1,11 @@
 ![image](https://github.com/Tri27sen/waste-/assets/117728032/9f512b25-eb95-4c93-b7ea-4da02f500537)
+
 Waste Classification Project
+
 This project involves two deep learning models for waste classification. The first model classifies waste as either biodegradable or non-biodegradable, and the second model classifies waste into specific categories: glass, paper, light bulb, plastic, metal, batteries, e-waste, and clothes. The models are built using popular deep learning architectures: VGG16, ResNet50, and InceptionV3.
 
 Table of Contents
+
 Introduction
 Datasets
 Model Architectures
@@ -14,8 +17,7 @@ Proper waste classification is essential for effective recycling and waste manag
 
 Binary Classification Model: Classifies waste as either biodegradable or non-biodegradable.
 Multi-class Classification Model: Classifies waste into specific categories: glass, paper, light bulb, plastic, metal, batteries, e-waste, and clothes.
-Datasets
-The datasets used for training and evaluation of the models are available on Kaggle. You can download them from the following links:
+
 
 Biodegradable vs Non-biodegradable Dataset
 Waste Classification Dataset (Glass, Paper, etc.)
